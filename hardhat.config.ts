@@ -15,7 +15,9 @@ const config: HardhatUserConfig = {
       accounts: 
         PRIVATE_KEY!==undefined?[PRIVATE_KEY]:[]
     }
-
+  },
+  etherscan: {
+    apiKey: process.env.POLYGONSCAN_API_KEY
   }
 };
 
