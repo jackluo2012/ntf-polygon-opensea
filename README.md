@@ -8,7 +8,7 @@ TypeError: Cannot read properties of null (reading 'sendTransaction')
 ```
 
 
-# 用 NFT 制作 SVG 
+# 用 SVG 制作  NFT
 ## 验证合约
 ```
 npx hardhat verify --network PolygonMumbai 0x1577162DCcfF1959bC113F956DCb41867347AF5b
