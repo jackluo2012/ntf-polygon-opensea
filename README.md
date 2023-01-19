@@ -12,6 +12,8 @@ TypeError: Cannot read properties of null (reading 'sendTransaction')
 ## 验证合约
 ```
 npx hardhat verify --network PolygonMumbai 0x1577162DCcfF1959bC113F956DCb41867347AF5b
+
+0xa153Ba0090A0D0eD60EE0246dbeEcf1B4efc22eD
 ```
 ## logs 多试两次
 ```
